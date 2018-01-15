@@ -21,7 +21,7 @@
 * We noted down some initial *"How Might We..."* questions.
 * We reviewed the examples of what makes a question; too broad, too narrow, just right.
 * We talked through the actors / personas we should consider: Donor, NGO/Charity, Recipient
-* We talked about the impact that we might want to create to the society?
+* We talked about the impact that we want to create to the society?
 * We discussed the idea of a connection between donor and recipient.
 * We heard that most donations are one-off (not repeating).
 
