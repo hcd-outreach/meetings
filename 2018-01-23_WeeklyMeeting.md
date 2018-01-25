@@ -19,7 +19,7 @@
 * We agreed to go with the highest scoring idea: [How might we reduce the friction between the decision to donate and the act of donating?](https://github.com/hcd-outreach/research/blob/master/ideas/Reduce%20friction%20between%20decision%20and%20donation.md)
 * We discussed the idea that friction could have many sources; i.e not just payment experience
 * We considered the idea that doubt or hesitation could contribute to friction.
-* We individually documented our assumptions and unknowns before discussing these as a group.
+* We individually documented our assumptions and unknowns before discussing these as a group ([documented here](https://github.com/hcd-outreach/research/blob/master/ideas/Reduce%20friction%20between%20decision%20and%20donation.md)).
 * We decided on primary questions/problems we need to come up with solutions for.
 * We discussed how to conduct the field research.
 * We agreed that research should be conducted individually, but that we would update the group with progress.
