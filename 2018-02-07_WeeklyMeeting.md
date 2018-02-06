@@ -4,12 +4,12 @@
 
 ## Attendees
 
-*[v] Alison
-*[v] Bill
+* [x] Alison
+* [x] Bill
 * [ ] Evy - apologies
 * [ ] Luisa
-* [v] Mickey
-* [v] Sabine
+* [x] Mickey
+* [x] Sabine
 * [ ] Christie - not due to join until Feb
 
 ## Topics
