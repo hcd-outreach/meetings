@@ -4,8 +4,8 @@
 
 ## Attendees
 
-* [v] Alison
-* [v] Bill
+*[v] Alison
+*[v] Bill
 * [ ] Evy - apologies
 * [ ] Luisa
 * [v] Mickey
