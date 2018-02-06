@@ -4,12 +4,12 @@
 
 ## Attendees
 
-* [ ] Alison
-* [ ] Bill
+* [*] Alison
+* [*] Bill
 * [ ] Evy - apologies
 * [ ] Luisa
-* [ ] Mickey
-* [ ] Sabine
+* [*] Mickey
+* [*] Sabine
 * [ ] Christie - not due to join until Feb
 
 ## Topics
@@ -28,10 +28,10 @@
   * Refine Your Clusters
   * Write Headlines
 
-* Create Insight Statements
 
-* Create “How Might We” Questions
 
 ## Actions
 
-* Action 1...
+* Create Insight Statements - email rolling paper
+
+* Create “How Might We” Questions - next week meeting
