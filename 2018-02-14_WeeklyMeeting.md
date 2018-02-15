@@ -28,3 +28,4 @@
 * All to review the current material and ask if anything is unclear
 * Bill to share course material with Christie
 * Bill to combine Insight Statements into a single PDF so that we have something to submit for Course 3
+* Bill to check with Alison whether we thought we could add Christie to the team
