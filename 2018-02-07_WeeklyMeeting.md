@@ -36,4 +36,3 @@
 * Groups to review HMW questiosn for each insight statement (in two sub-groups, Europe/Asia-Pacific) by 19th Feb
 * All to Read class 4 material by 19th Feb
 * Alison to check with Christie if she's planning to join in Feb
-
