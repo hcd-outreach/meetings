@@ -8,6 +8,7 @@
 * [x] Bill
 * [ ] Evy - Apology
 * [ ] Luisa - Apology
+* [ ] Mickey - Apology
 * [ ] Sabine - Apology
 * [x] Christie
 
